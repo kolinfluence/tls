@@ -1,4 +1,4 @@
-module github.com/luyu6056/tls
+module github.com/kolinfluence/tls
 
 go 1.20
 
